@@ -46,3 +46,4 @@ This is collection of projects and links about algorithm visualization.
 * [Animation and interpolation](http://acko.net/blog/animate-your-way-to-glory/)
 * [HyperLogLog for big data distinct values](http://research.neustar.biz/2012/10/25/sketch-of-the-day-hyperloglog-cornerstone-of-a-big-data-infrastructure/)
 * [An interactive explanation of quadtrees](http://jimkang.com/quadtreevis/)
+* [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
